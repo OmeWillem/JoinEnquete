@@ -1,0 +1,8 @@
+name: JoinEnquete
+version: '${project.version}'
+main: eu.omewillem.joinenquete.JoinEnquete
+commands:
+  enquete:
+    description: "Doe een enquete."
+  checkenquete:
+    description: "Check enquete data"
